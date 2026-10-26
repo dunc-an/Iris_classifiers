@@ -1,3 +1,4 @@
+Author: Duncan Duncan
 # Iris Flower Classifier
 
 A simple end-to-end machine learning pipeline that classifies iris flowers into three
